@@ -1,0 +1,19 @@
+{
+    "name": "com.fscigliano.interfaceobject.editor",
+    "rootNamespace": "",
+    "references": [
+        "com.fscigliano.interfaceobject",
+        "com.fscigliano.reflection-extensions.editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

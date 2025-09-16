@@ -1,0 +1,18 @@
+{
+  "name": "com.fscigliano.interfaceobject",
+  "version": "1.0.0",
+  "displayName": "Interface Object",
+  "description": "Allow a component that implements an interface to be dragged into the inspector as a reference.",
+  "unity": "2021.3",
+  "keywords": [
+    "tool"
+  ],
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.dev@gmail.com",
+    "url": "https://github.com/franco-scigliano-dev/InterfaceObject"
+  },
+  "dependencies": {
+    "com.fscigliano.reflection-extensions": "https://github.com/franco-scigliano-dev/ReflectionExtensions.git#v1.0.0"
+  }
+}
